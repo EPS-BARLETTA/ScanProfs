@@ -1,0 +1,1 @@
+// Scanner QR code en ligne à implémenter ici

@@ -1,0 +1,1 @@
+// À compléter avec la logique de scan, import/export, tri dynamique et PDF
